@@ -1,0 +1,1306 @@
+extra/aalib 1.4rc5-10
+extra/abs 2.4.4-2
+extra/accountsservice 0.6.40-1
+core/acl 2.2.52-2
+community/activity-log-manager 0.9.7-3
+extra/adwaita-icon-theme 3.16.2.1-1 (gnome)
+extra/alsa-lib 1.0.29-1
+extra/alsa-plugins 1.0.29-2
+extra/apache 2.4.12-4
+extra/apr 1.5.2-1
+extra/apr-util 1.5.4-1
+core/archlinux-keyring 20150212-1
+community/asciidoc 8.6.9-2
+extra/aspell 0.60.6.1-2
+community/assimp 3.1.1-1
+extra/at-spi2-atk 2.16.0-1
+extra/at-spi2-core 2.16.0-1
+extra/atk 2.16.0-1
+extra/atkmm 2.22.7-1
+core/attr 2.4.47-1
+core/autoconf 2.69-2 (base-devel)
+core/automake 1.15-1 (base-devel)
+community/autossh 1.4e-1
+extra/avahi 0.6.31-15
+extra/baobab 3.16.1-1 (gnome)
+core/bash 4.3.033-1 (base)
+extra/bash-completion 2.1-5
+extra/bc 1.06.95-1
+core/binutils 2.25-5 (base-devel)
+core/bison 3.0.4-1 (base-devel)
+extra/blas 3.5.0-1
+extra/bluez 5.30-1
+extra/bluez-utils 5.30-1
+extra/boost 1.58.0-1
+extra/boost-libs 1.58.0-1
+community/bumblebee 3.2.1-10
+core/bzip2 1.0.6-5 (base)
+core/ca-certificates 20150402-1
+core/ca-certificates-cacert 20140824-2
+core/ca-certificates-mozilla 3.18.1-1
+core/ca-certificates-utils 20150402-1
+extra/cairo 1.14.2-1
+extra/cairomm 1.10.0-3
+extra/cantarell-fonts 0.0.16-2
+extra/caribou 0.4.18.1-1
+extra/cdparanoia 10.2-5
+extra/celt 0.11.3-2
+extra/cfitsio 3.370-3
+extra/cheese 3.16.1-1 (gnome-extra)
+extra/chromaprint 1.1-2
+community/chrpath 0.16-1
+extra/cifs-utils 6.4-1
+local/clips 6.30-1
+local/clipsmm 0.3.4-1
+extra/clucene 2.3.3.4-8
+extra/clutter 1.22.2-1
+extra/clutter-gst 3.0.4-1
+extra/clutter-gst2 2.0.14-1
+extra/clutter-gtk 1.6.0-2
+extra/cmake 3.2.2-1
+extra/cogl 1.20.0-1
+community/coin-or-cbc 2.9.4-1 (coin-or)
+community/coin-or-cgl 0.59.4-1 (coin-or)
+community/coin-or-clp 1.16.6-1 (coin-or)
+community/coin-or-coinutils 2.10.7-1 (coin-or)
+community/coin-or-mp 1.8.1-1 (coin-or)
+community/coin-or-osi 0.107.4-1 (coin-or)
+local/collada-dom 2.4.0-1
+extra/colord 1.2.9-2
+extra/colord-gtk 0.1.26-2
+extra/compositeproto 0.4.2-3
+local/console-bridge 0.2.7-4
+core/coreutils 8.23-1 (base)
+community/couchdb 1.6.1-4
+extra/cppunit 1.13.2-1
+core/cracklib 2.9.4-1
+core/cryptsetup 1.6.6-1 (base)
+extra/cups 2.0.2-4
+extra/cups-filters 1.0.68-1
+extra/cups-pk-helper 0.2.5-1
+core/curl 7.42.0-1
+community/cython 0.22-3
+community/cython2 0.22-3
+extra/damageproto 1.2.1-3
+core/db 5.3.28-2
+core/dbus 1.8.16-2
+extra/dbus-glib 0.102-2
+extra/dconf 0.24.0-1
+local/debootstrap 1.0.70-1
+extra/desktop-file-utils 0.22-1
+core/device-mapper 2.02.116-1 (base)
+extra/dhclient 4.3.2-1
+core/dhcpcd 6.9.0-1 (base)
+core/dialog 1:1.2_20150513-1
+core/diffutils 3.3-2 (base)
+extra/djvulibre 3.5.27-1
+community/dkms 2.2.0.3-15
+core/dnssec-anchors 20150403-1
+extra/docbook-xml 4.5-6
+extra/docbook-xsl 1.78.1-1
+extra/doxygen 1.8.9.1-1
+local/dpkg 1.16.15-1
+core/e2fsprogs 1.42.12-2 (base)
+extra/eclipse 4.4.2-1
+extra/eigen 3.2.4-1
+extra/elfutils 0.161-3
+extra/empathy 3.12.10-1 (gnome)
+extra/enca 1.16-1
+extra/enchant 1.6.0-5
+extra/eog 3.16.2-1 (gnome)
+extra/epiphany 3.16.1-1 (gnome)
+community/erlang-nox 17.5-1
+extra/evince 3.16.0-1 (gnome)
+extra/evolution-data-server 3.16.2-1
+extra/exempi 2.2.2-1
+extra/exiv2 0.24-1
+core/expat 2.1.0-4
+extra/faac 1.28-5
+extra/faad2 2.7-4
+core/fakeroot 1.20.2-1 (base-devel)
+extra/farstream 0.2.7-1
+extra/ffmpeg 1:2.6.3-1
+extra/fftw 3.3.4-1
+core/file 5.22-1 (base base-devel)
+extra/file-roller 3.16.2-2 (gnome-extra)
+core/filesystem 2015.02-1 (base)
+core/findutils 4.4.2-6 (base base-devel)
+extra/firefox 38.0.1-1
+community/fish 2.1.2-1
+extra/fixesproto 5.0-3
+extra/flac 1.3.1-1
+local/flann 1.8.4-2
+core/flex 2.5.39-1 (base-devel)
+extra/fltk 1.3.3-4
+extra/fluidsynth 1.1.6-4
+extra/folks 0.11.0-1
+extra/fontconfig 2.11.1-1
+extra/fontsproto 2.1.3-1
+extra/foomatic-db-engine 3:20150308-1
+extra/freeglut 3.0.0-1
+community/freeimage 3.17.0-1
+extra/freetype2 2.5.5-1
+extra/fribidi 0.19.6-2
+extra/fuse 2.9.4-1
+community/fuse-exfat 1.1.0-1
+extra/gamin 0.1.10-8
+core/gawk 4.1.2-1 (base base-devel)
+local/gazebo 5.0.1-3
+extra/gc 7.4.2-2
+core/gcc 5.1.0-4 (base-devel)
+core/gcc-libs 5.1.0-4 (base)
+extra/gconf 3.2.6-3
+extra/gcr 3.16.0-1
+extra/gd 2.1.1-2
+community/gdal 1.11.2-4
+extra/gdb 7.9.1-1
+core/gdbm 1.11-1
+extra/gdk-pixbuf2 2.31.4-1
+extra/gdm 3.16.1.1-1 (gnome)
+extra/gedit 3.16.2-1 (gnome-extra)
+extra/gedit-plugins 3.16.0-2
+extra/geoclue 0.12.99-2
+extra/geoclue2 2.2.0-2
+extra/geocode-glib 3.16.2-1
+extra/geoip 1.6.2-1
+extra/geoip-database 20150407-1
+community/geos 3.4.2-2
+core/gettext 0.19.4-1 (base base-devel)
+haskell-core/ghc 7.10.1-1
+extra/ghostscript 9.16-1
+extra/giflib 5.1.1-1
+extra/git 2.4.1-1
+extra/gitg 3.16.1-1 (gnome-extra)
+extra/gjs 1.43.3-1
+extra/gksu 2.0.2-5
+extra/glade 3.18.3-1
+extra/glew 1.12.0-1
+extra/glib-networking 2.44.0-2
+core/glib2 2.44.1-1
+core/glibc 2.21-4 (base)
+extra/glibmm 2.44.0-1
+extra/glpk 4.55-1
+extra/glu 9.0.0-3
+extra/gmime 2.6.20-2
+core/gmp 6.0.0-2
+extra/gnome-backgrounds 3.16.0-1 (gnome)
+extra/gnome-bluetooth 3.16.1-1
+extra/gnome-calculator 3.16.1-1 (gnome)
+extra/gnome-color-manager 3.16.0-1 (gnome-extra)
+extra/gnome-contacts 3.16.1-1 (gnome)
+extra/gnome-control-center 3.16.2-1 (gnome)
+extra/gnome-desktop 1:3.16.2-1 (gnome)
+extra/gnome-dictionary 3.16.2-1 (gnome)
+extra/gnome-disk-utility 3.16.1-1 (gnome)
+extra/gnome-doc-utils 0.20.10-2
+extra/gnome-font-viewer 3.16.2-1 (gnome)
+extra/gnome-icon-theme 3.12.0-3
+extra/gnome-icon-theme-extras 3.12.0-2
+extra/gnome-icon-theme-symbolic 3.12.0-3
+extra/gnome-keyring 3.16.0-1 (gnome)
+extra/gnome-menus 3.13.3-1
+extra/gnome-online-accounts 3.16.2-1
+extra/gnome-power-manager 3.16.0-1
+extra/gnome-screenshot 3.16.2-1 (gnome)
+extra/gnome-session 3.16.0-1 (gnome)
+extra/gnome-settings-daemon 3.16.2-1 (gnome)
+extra/gnome-shell 3.16.2-2 (gnome)
+extra/gnome-shell-extensions 3.16.1-1 (gnome)
+extra/gnome-system-log 3.9.90-1 (gnome)
+extra/gnome-system-monitor 3.16.0-1 (gnome)
+extra/gnome-terminal 3.16.2-1 (gnome)
+extra/gnome-themes-standard 3.16.2-1 (gnome)
+extra/gnome-tweak-tool 3.16.2-1 (gnome-extra)
+extra/gnome-user-docs 3.16.0-1 (gnome)
+extra/gnome-user-share 3.14.2-1 (gnome)
+extra/gnome-video-effects 0.4.1-1
+core/gnupg 2.1.4-1
+core/gnutls 3.4.1-1
+extra/gobject-introspection 1.44.0-1
+extra/gobject-introspection-runtime 1.44.0-1
+extra/gom 0.3.0-1
+extra/gperftools 2.4-1
+core/gpgme 1.5.4-1
+core/gpm 1.20.7-4
+extra/graphite 1:1.2.4-1
+extra/graphviz 2.38.0-4
+core/grep 2.21-2 (base base-devel)
+extra/grilo 0.2.12-1
+extra/grilo-plugins 0.2.14-4 (gnome)
+extra/grml-zsh-config 0.11.2-1
+core/groff 1.22.3-3 (base-devel)
+core/grub 1:2.02.beta2-5
+extra/gsettings-desktop-schemas 3.16.1-1
+extra/gsfonts 20150122-1
+extra/gsm 1.0.13-8
+extra/gst-libav 1.4.5-1
+extra/gst-plugins-bad 1.4.5-2
+extra/gst-plugins-base 1.4.5-1
+extra/gst-plugins-base-libs 1.4.5-1
+extra/gst-plugins-good 1.4.5-2
+extra/gstreamer 1.4.5-1
+extra/gstreamer0.10 0.10.36-4
+extra/gstreamer0.10-base 0.10.36-3
+community/gtest 1.7.0-1
+extra/gtk-doc 1.23-1
+extra/gtk-update-icon-cache 3.16.3-2
+extra/gtk2 2.24.28-1
+extra/gtk3 3.16.3-2
+extra/gtkglext 1.2.0-10
+extra/gtkmm 2.24.4-1
+extra/gtkmm3 3.16.0-1
+extra/gtksourceview3 3.16.1-1
+community/gtkspell3 3.0.7-1
+extra/gts 0.7.6-3
+extra/gucharmap 3.16.2-1 (gnome)
+extra/guile 2.0.11-2
+extra/gvfs 1.24.1-1
+core/gzip 1.6-1 (base base-devel)
+extra/harfbuzz 0.9.40-2
+extra/harfbuzz-icu 0.9.40-2
+extra/hddtemp 0.3.beta15.52-2
+extra/hdf5 1.8.14-1
+extra/hicolor-icon-theme 0.13-1
+extra/hplip 3.15.4-1
+extra/hspell 1.2-2
+community/human-icon-theme 0.36-4
+extra/hunspell 1.3.3-1
+core/hwids 20150129-1
+extra/hwloc 1.10.1-1
+extra/hyphen 2.8.8-1
+core/iana-etc 2.30-5
+extra/icon-naming-utils 0.8.90-3
+extra/icu 55.1-1
+extra/ilmbase 2.2.0-1
+extra/imagemagick 6.9.1.2-1
+extra/imlib2 1.4.7-1
+core/inetutils 1.9.2-2 (base)
+extra/iniparser 4.0-1
+extra/inputproto 2.3.1-1
+extra/intel-tbb 4.3_20150209-1
+extra/intltool 0.50.2-2
+core/iproute2 4.0.0-1 (base)
+core/iptables 1.4.21-3
+core/iputils 20140519.fad11dc-1 (base)
+community/ipython 3.1.0-1
+community/ipython2 3.1.0-1
+extra/iso-codes 3.57-1
+extra/itstool 2.0.2-1
+core/iw 3.17-1
+extra/jack 0.124.1-3
+community/jansson 2.7-1
+extra/jasper 1.900.1-13
+extra/java-environment-common 2-2
+extra/java-runtime-common 2-2
+extra/jdk7-openjdk 7.u79_2.5.5-1
+extra/jemalloc 3.6.0-1
+core/jfsutils 1.1.15-4 (base)
+extra/jre7-openjdk 7.u79_2.5.5-1
+extra/jre7-openjdk-headless 7.u79_2.5.5-1
+extra/js 24.2.0-1
+extra/js17 17.0.0-1
+community/js185 1.0.0-2
+extra/json-c 0.12-2
+extra/json-glib 1.0.2-1
+local/jsoncpp-cs 1.0.0-1
+core/kbd 2.0.2-1
+extra/kbproto 1.0.7-1
+core/keyutils 1.5.9-1
+core/kmod 20-1
+core/krb5 1.13.1-1
+extra/lame 3.99.5-2
+extra/lapack 3.5.0-1
+extra/lcms 1.19-5
+extra/lcms2 2.7-1
+extra/ldb 1.1.20-1
+core/ldns 1.6.17-2
+core/less 471-1 (base)
+extra/lesstif 0.95.2-6
+extra/libabw 0.1.1-1
+core/libaio 0.3.110-1
+core/libarchive 3.1.2-8
+extra/libass 0.12.2-1
+core/libassuan 2.2.0-1
+extra/libasyncns 0.8-5
+extra/libatasmart 0.19-3
+extra/libatomic_ops 7.4.2-1
+extra/libavc1394 0.5.4-2
+extra/libbluray 0.8.1-1
+extra/libbsd 0.7.0-1
+extra/libcaca 0.99.beta18-2
+extra/libcanberra 0.30-5
+extra/libcanberra-pulse 0.30-5
+core/libcap 2.24-2
+extra/libcap-ng 0.7.4-1
+local/libccd 2.0-3
+extra/libcddb 1.3.2-4
+extra/libcdio 0.93-1
+extra/libcdio-paranoia 10.2+0.93+1-1
+extra/libcdr 0.1.1-2
+extra/libchamplain 0.12.10-1
+extra/libcl 1.1-4
+extra/libcroco 0.6.8-2
+extra/libcue 1.4.0-4
+extra/libcups 2.0.2-4
+extra/libdaemon 0.14-3
+extra/libdatrie 0.2.8-1
+core/libdbus 1.8.16-2
+extra/libdc1394 2.2.3-1
+extra/libdca 0.0.5-4
+extra/libdmapsharing 2.9.30-1
+extra/libdrm 2.4.61-1
+extra/libdv 1.0.0-6
+extra/libdvdnav 5.0.2-1
+extra/libdvdread 5.0.1-1
+extra/libe-book 0.1.2-2
+core/libedit 20150325_3.1-1
+extra/libepoxy 1.2-2
+extra/libetonyek 0.1.1-1
+extra/libevdev 1.4.2-1
+core/libevent 2.0.22-1
+extra/libexif 0.6.21-2
+core/libffi 3.2.1-1
+extra/libfontenc 1.1.3-1
+community/libfreexl 1.0.1-1
+community/libftdi 1.2-3
+core/libgcrypt 1.6.3-2
+extra/libgdata 0.16.1-1
+extra/libgdm 3.16.1.1-1
+extra/libgee 0.18.0-1
+community/libgeotiff 1.4.1-2
+extra/libgit2 1:0.22.1-1
+extra/libgit2-glib 0.22.6-1
+extra/libgksu 2.0.12-6
+extra/libglade 2.6.4-5
+extra/libgme 0.6.0-3
+extra/libgnome-keyring 3.12.0-2
+extra/libgnomekbd 3.6.0-2
+core/libgpg-error 1.19-1
+extra/libgsf 1.14.33-1
+extra/libgsystem 2015.1-1
+extra/libgtop 2.30.0-1
+extra/libgusb 0.2.4-1
+extra/libgweather 3.16.1-1
+extra/libgxps 0.2.2-3
+extra/libibus 1.5.10-1
+extra/libical 1.0.1-2
+extra/libice 1.0.9-1
+extra/libid3tag 0.15.1b-8
+core/libidn 1.30-1
+extra/libiec61883 1.2.0-4
+extra/libimobiledevice 1.2.0-1
+extra/libinput 0.15.0-1
+community/libiptcdata 1.0.4-3
+extra/libjpeg-turbo 1.4.0-1
+community/libkeybinder2 0.3.0-2
+core/libksba 1.3.3-1
+core/libldap 2.4.40-2
+extra/liblqr 0.4.2-1
+extra/libmariadbclient 10.0.18-2
+extra/libmediaart 1.9.0-1
+extra/libmm-glib 1.4.8-1
+extra/libmms 0.6.4-1
+extra/libmng 2.0.2-3
+local/libmodbus 3.0.6-1
+extra/libmodplug 0.8.8.5-1
+extra/libmp4v2 2.0.0-3
+core/libmpc 1.0.3-1
+extra/libmspub 0.1.2-2
+extra/libmusicbrainz5 5.1.0-1
+extra/libmwaw 0.3.4-1
+extra/libnautilus-extension 3.16.2-1
+extra/libndp 1.4-1
+community/libnewt 0.52.18-2
+extra/libnice 0.1.10-1
+core/libnl 3.2.25-1
+extra/libnm-glib 1.0.2-3
+extra/libnotify 0.7.6-1
+extra/liboauth 1.0.3-1
+extra/libodfgen 0.1.3-1
+extra/libofa 0.9.3-5
+extra/libogg 1.3.2-1
+extra/libomxil-bellagio 0.9.3-1
+community/libosinfo 0.2.11-1
+extra/libpagemaker 0.0.2-1
+extra/libpaper 1.1.24-7
+core/libpcap 1.6.2-1
+extra/libpciaccess 0.13.4-1
+extra/libpeas 1.14.0-1
+core/libpipeline 1.4.0-1
+extra/libplist 1.12-1
+extra/libpng 1.6.16-1
+extra/libproxy 0.4.11-5
+extra/libpulse 6.0-2
+extra/libpwquality 1.2.3-1
+extra/libquvi 0.9.4-4
+extra/libquvi-scripts 0.9.20131130-3
+extra/libqzeitgeist 0.8.0-4
+extra/libraw1394 2.1.0-2
+extra/libreoffice-fresh 4.4.3-1
+extra/librevenge 0.0.2-1
+extra/librsvg 1:2.40.9-2
+extra/libsamplerate 0.1.8-3
+core/libsasl 2.1.26-7
+core/libseccomp 2.2.0-1
+extra/libsecret 0.18.2-1
+extra/libshout 1:2.3.1-2
+extra/libsigc++ 2.4.1-1
+extra/libsigsegv 2.10-2
+extra/libsm 1.2.2-2
+extra/libsndfile 1.0.25-3
+community/libsodium 1.0.3-1
+extra/libsoup 2.50.0-1
+community/libspatialite 4.2.0-2
+extra/libspectre 0.2.7-2
+extra/libsrtp 15.1c9bd90-3
+extra/libssh 0.7.0-1
+core/libssh2 1.5.0-1
+local/libsvm 3.20-2
+core/libsystemd 219-6
+extra/libtar 1.2.20-2
+core/libtasn1 4.5-1
+extra/libteam 1.14-2
+extra/libthai 0.1.21-1
+extra/libtheora 1.1.1-3
+extra/libtiff 4.0.3-5
+core/libtirpc 0.3.0-1
+core/libtool 2.4.6-2 (base-devel)
+local/libtorrent-rasterbar-1 1:1.0.5-1
+extra/libtracker-sparql 1.4.0-2
+extra/libtxc_dxtn 1.0.1-6
+core/libunistring 0.9.5-1
+extra/libunwind 1.1-2
+core/libusb 1.0.19-1
+extra/libusbmuxd 1.0.10-1
+core/libutil-linux 2.26.1-3
+extra/libva 1.5.1-1
+extra/libvdpau 1.1-1
+extra/libvisio 0.1.1-2
+extra/libvisual 0.4.0-5
+extra/libvorbis 1.3.5-1
+extra/libvpx 1.4.0-2
+extra/libwacom 0.11-1
+extra/libwbclient 4.2.1-1
+extra/libwebp 0.4.3-1
+extra/libwnck3 3.14.0-1
+extra/libwpd 0.10.0-1
+extra/libwpg 0.3.0-1
+extra/libwps 0.3.1-1
+extra/libx11 1.6.3-1
+extra/libx264 2:144.20150223-1
+extra/libxau 1.0.8-2
+extra/libxaw 1.0.13-1
+extra/libxcb 1.11-1
+extra/libxcomposite 0.4.4-2
+extra/libxcursor 1.1.14-2
+extra/libxdamage 1.1.4-2
+extra/libxdmcp 1.1.2-1
+extra/libxext 1.3.3-1
+extra/libxfixes 5.0.1-1
+extra/libxfont 1.5.1-1
+extra/libxft 2.3.2-1
+extra/libxi 1.7.4-1
+extra/libxinerama 1.1.3-2
+extra/libxkbcommon 0.5.0-1
+extra/libxkbcommon-x11 0.5.0-1
+extra/libxkbfile 1.0.9-1
+extra/libxklavier 5.4-1
+extra/libxml2 2.9.2-2
+extra/libxmu 1.1.2-1
+extra/libxp 1.0.3-1
+extra/libxpm 3.5.11-1
+extra/libxrandr 1.5.0-1
+extra/libxrender 0.9.9-1
+extra/libxres 1.0.7-1
+extra/libxshmfence 1.2-1
+extra/libxslt 1.1.28-3
+extra/libxt 1.1.5-1
+extra/libxtst 1.2.2-1
+extra/libxv 1.0.10-1
+extra/libxvmc 1.0.9-1
+extra/libxxf86vm 1.1.4-1
+extra/libyaml 0.1.6-1
+core/licenses 20140629-1 (base)
+core/linux 4.0.4-2 (base)
+core/linux-api-headers 4.0-1
+core/linux-firmware 20150511.8e18132-1
+core/linux-headers 4.0.4-2
+community/linuxconsole 1.4.7-2
+extra/llvm-libs 3.6.0-5
+community/lockdev 1.0.3_1.6-1
+community/log4cpp 1.1.1-1
+local/log4cxx 0.10.0-3
+core/logrotate 3.8.9-1 (base)
+extra/lpsolve 5.5.2.0-3
+extra/lua 5.3.0-2
+community/lua-expat 1.3.0-3
+community/lua-socket 3.0rc1-7
+extra/lua52 5.2.4-1
+community/lua52-bitop 1.0.2-7
+community/lua52-expat 1.3.0-3
+extra/lua52-lpeg 0.12.2-2
+extra/lua52-luajson 1.3.3-2
+community/lua52-socket 3.0rc1-7
+core/lvm2 2.02.116-1 (base)
+core/lz4 129-1
+core/lzo 2.09-1
+core/m4 1.4.17-1 (base-devel)
+core/make 4.1-1 (base-devel)
+core/man-db 2.7.1-1 (base)
+core/man-pages 4.00-1 (base)
+extra/mariadb 10.0.18-2
+extra/mariadb-clients 10.0.18-2
+extra/mcpp 2.7.2-5
+core/mdadm 3.3.2-2 (base)
+extra/meld 3.12.3-1
+extra/mesa 10.5.5-1
+extra/mesa-demos 8.2.0-4
+extra/mesa-libgl 10.5.5-1
+extra/mime-types 9-1
+extra/mjpegtools 2.1.0-1
+core/mkinitcpio 18-2
+core/mkinitcpio-busybox 1.21.1-2
+extra/mobile-broadband-provider-info 20120614-2
+extra/mod_dnssd 0.6-6
+local/mongo-cxx-driver-legacy-0.0-26compat 2.6.9-1
+community/mongodb 3.0.3-1
+extra/mousetweaks 3.12.0-1 (gnome)
+extra/mozilla-common 1.4-4
+core/mpfr 3.1.2.p11-1
+extra/mpg123 1.22.1-1
+extra/mtdev 1.1.5-1
+extra/mutter 3.16.2-1 (gnome)
+core/nano 2.4.1-1 (base)
+extra/nautilus 3.16.2-1 (gnome)
+extra/nautilus-sendto 3.8.2-1 (gnome-extra)
+core/ncurses 5.9-7
+extra/neon 0.30.1-1
+extra/net-snmp 5.7.3-1
+core/net-tools 1.60.20130531git-1
+extra/netcdf 4.3.3.1-1
+core/netctl 1.10-2 (base)
+extra/netpbm 10.69.02-1
+core/nettle 3.1.1-1
+extra/network-manager-applet 1.0.2-1
+extra/networkmanager 1.0.2-3
+extra/networkmanager-openvpn 1.0.2-1
+extra/nm-connection-editor 1.0.2-1
+extra/nmap 6.47-3
+community/nodejs 0.12.3-2
+community/npm 2.10.1-1
+core/npth 1.2-1
+core/nspr 4.10.8-1
+core/nss 3.18.1-1
+extra/nvidia 352.09-1
+community/nvidia-cg-toolkit 3.1-3
+extra/nvidia-utils 352.09-1
+community/ogre 1.9.0-10
+community/ois 1.3-3
+extra/opencore-amr 0.1.3-2
+extra/opencv 2.4.10-3
+extra/openexr 2.2.0-2
+extra/openjpeg 1.5.2-1
+extra/openmpi 1.8.5-2
+core/openresolv 3.7.0-1
+core/openssh 6.8p1-3
+core/openssl 1.0.2.a-1
+core/openvpn 2.3.6-1
+extra/opus 1.1-1
+extra/orc 0.4.23-1
+core/p11-kit 0.23.1-2
+extra/p7zip 9.38.1-3
+local/package-query 1.5-2
+core/pacman 4.2.1-1 (base base-devel)
+core/pacman-mirrorlist 20150519-1
+core/pam 1.2.0-1
+core/pambase 20130928-1
+extra/pango 1.36.8-1
+extra/pangomm 2.36.0-1
+extra/pangox-compat 0.0.2-2
+extra/parted 3.2-2
+core/patch 2.7.5-1 (base-devel)
+core/pciutils 3.3.1-1 (base)
+local/pcl 1.7.2-1
+core/pcmciautils 018-7 (base)
+core/pcre 8.37-1
+community/pep8 1.6.2-2
+core/perl 5.20.2-1 (base)
+extra/perl-clone 0.37-2
+extra/perl-dbi 1.633-1
+extra/perl-error 0.17023-1
+community/perl-io-string 1.08-9
+extra/perl-timedate 2.30-2
+extra/perl-xml-libxml 2.0121-1
+extra/perl-xml-namespacesupport 1.11-3
+extra/perl-xml-parser 2.44-1
+extra/perl-xml-sax 0.99-4
+extra/perl-xml-sax-base 1.08-3
+community/perl-xml-sax-expat 0.51-3
+extra/perl-xml-simple 2.20-3
+extra/phonon-qt4 4.8.3-1
+extra/phonon-qt4-gstreamer 4.8.2-1
+core/pinentry 0.9.1-1
+extra/pixman 0.32.6-1
+core/pkg-config 0.28-2 (base-devel)
+extra/pm-quirks 0.20100619-4
+extra/pm-utils 1.4.1-6
+local/poco 1.6.0.0-1
+extra/polkit 0.112-2
+local/polyclipping 6.1.3a-1
+extra/poppler 0.32.0-1
+extra/poppler-glib 0.32.0-1
+extra/poppler-qt5 0.32.0-1
+core/popt 1.16-7
+community/portaudio 19_20140130-1
+extra/postgresql-libs 9.4.1-1
+extra/printproto 1.0.5-3
+core/procps-ng 3.3.10-2 (base)
+community/proj 4.9.1-1
+extra/protobuf 2.6.1-1
+core/psmisc 22.21-2 (base)
+core/pth 2.0.7-5
+extra/pulseaudio 6.0-2
+extra/pulseaudio-alsa 2-3
+extra/pygobject-devel 3.16.1-1
+extra/pygobject2-devel 2.28.6-11
+extra/pygtk 2.24.0-5
+extra/pyqt4-common 4.11.3-4
+extra/pyqt5-common 5.4.1-2
+extra/python 3.4.3-2
+community/python-babel 1.3-5
+extra/python-cairo 1.10.0-5
+community/python-dateutil 2.4.2-1
+extra/python-dbus 1.2.0-4
+extra/python-dbus-common 1.2.0-4
+community/python-docutils 0.12-1
+local/python-empy 3.3.2-4
+community/python-gmpy2 2.0.5-2
+extra/python-gobject 3.16.1-1
+community/python-h5py 2.5.0-1
+community/python-jinja 2.7.3-1
+extra/python-markupsafe 0.23-2
+community/python-matplotlib 1.4.3-2
+community/python-mpmath 0.19-1
+extra/python-numpy 1.9.2-2
+extra/python-pip 6.1.1-1
+community/python-psutil 2.2.1-2
+community/python-pyflakes 0.8.1-2
+community/python-pygments 2.0.2-2
+community/python-pyparsing 2.0.3-1
+extra/python-pyqt4 4.11.3-4
+extra/python-pyqt5 5.4.1-2
+community/python-pytz 2015.2-1
+community/python-pyzmq 14.5.0-2
+community/python-rope 0.9.4_1-2
+community/python-scikit-learn 0.16.1-1
+community/python-scipy 0.15.1-2
+extra/python-setuptools 1:16.0-1
+extra/python-sip 4.16.7-1
+community/python-six 1.9.0-1
+community/python-snowballstemmer 1.2.0-1
+community/python-sphinx 1.3.1-7
+community/python-sphinx-alabaster-theme 0.7.4-1
+community/python-sphinx_rtd_theme 0.1.6-3
+community/python-sympy 0.7.6-2
+extra/python-xdg 0.25-2
+extra/python2 2.7.9-1
+extra/python2-atspi 2.16.0-1
+community/python2-babel 1.3-5
+extra/python2-beaker 1.7.0-1
+extra/python2-cairo 1.10.0-2
+local/python2-catkin_pkg 0.2.8-1
+extra/python2-crypto 2.6.1-2
+community/python2-dateutil 2.4.2-1
+extra/python2-dbus 1.2.0-4
+community/python2-docutils 0.12-1
+community/python2-ecdsa 0.13-1
+local/python2-empy 3.3.2-2
+community/python2-gmpy2 2.0.5-2
+extra/python2-gobject 3.16.1-1
+extra/python2-gobject2 2.28.6-11
+community/python2-h5py 2.5.0-1
+community/python2-jinja 2.7.3-1
+community/python2-jsonschema 2.4.0-1
+community/python2-keybinder2 0.3.0-2
+extra/python2-mako 1.0.1-1
+extra/python2-markupsafe 0.23-2
+community/python2-matplotlib 1.4.3-2
+community/python2-mpmath 0.19-1
+community/python2-netifaces 0.10.4-1
+extra/python2-nose 1.3.6-1
+extra/python2-notify 0.1.1-13
+extra/python2-numpy 1.9.2-2
+extra/python2-opengl 3.1.0-1
+community/python2-paramiko 1.15.2-1
+community/python2-pillow 2.8.1-1
+extra/python2-pip 6.1.1-1
+community/python2-psutil 2.2.1-2
+community/python2-pydot 1.0.28-3
+community/python2-pyflakes 0.8.1-2
+community/python2-pygments 2.0.2-2
+local/python2-pygraphviz 1.2-1
+community/python2-pymongo 3.0.2-1
+community/python2-pyparsing 2.0.3-1
+extra/python2-pyqt4 4.11.3-4
+extra/python2-pyqt5 5.4.1-2
+community/python2-pyqwt 5.2.0-1
+community/python2-pytz 2015.2-1
+community/python2-pyzmq 14.5.0-2
+community/python2-rope 0.10.2-1
+local/python2-rosdep 0.11.2-2
+local/python2-rosdistro 0.4.2-1
+local/python2-rosinstall 0.7.5-1
+local/python2-rospkg 1.0.35-2
+community/python2-scikit-learn 0.16.1-1
+community/python2-scipy 0.15.1-2
+extra/python2-setuptools 1:16.0-1
+extra/python2-sip 4.16.7-1
+community/python2-six 1.9.0-1
+community/python2-snowballstemmer 1.2.0-1
+community/python2-sphinx 1.3.1-7
+community/python2-sphinx-alabaster-theme 0.7.4-1
+community/python2-sphinx_rtd_theme 0.1.6-3
+local/python2-support 1.0.15-2
+community/python2-sympy 0.7.6-2
+community/python2-tornado 4.1.0-2
+local/python2-vcstools 0.1.36-1
+local/python2-wstool 0.1.6-1
+community/python2-yaml 3.11-2
+extra/qhull 2012.1-3
+extra/qpdf 5.1.2-1
+extra/qt-assistant-compat 4.6.3-5
+extra/qt4 4.8.6-6
+extra/qt5-base 5.4.1-9 (qt qt5)
+extra/qt5-declarative 5.4.1-9 (qt qt5)
+extra/qt5-location 5.4.1-9 (qt qt5)
+extra/qt5-script 5.4.1-9 (qt qt5)
+extra/qt5-sensors 5.4.1-9 (qt qt5)
+extra/qt5-webchannel 5.4.1-9 (qt qt5)
+extra/qt5-webkit 5.4.1-9 (qt qt5)
+extra/qt5-xmlpatterns 5.4.1-9 (qt qt5)
+extra/qtchooser 48-1
+extra/qtwebkit 2.3.4-1
+community/qwt5 5.2.3-3
+extra/randrproto 1.5.0-1
+extra/raptor 2.0.15-2
+extra/rarian 0.8.1-4
+extra/rasqal 1:0.9.33-1
+core/readline 6.3.008-1
+extra/recode 3.6-8
+extra/recordproto 1.14.2-2
+extra/redland 1:1.0.17-2
+core/reiserfsprogs 3.6.24-1 (base)
+extra/renderproto 0.11.1-3
+extra/rest 0.7.93-1
+local/ros-build-tools 0.1.0-4
+local/ros-hydro-actionlib 1.10.3-1
+local/ros-hydro-actionlib-msgs 1.10.6-2
+local/ros-hydro-angles 1.9.9-1
+local/ros-hydro-catkin 0.5.89-1
+local/ros-hydro-class-loader 0.2.5-1
+local/ros-hydro-cmake-modules 0.2.1-1
+local/ros-hydro-console-bridge 0.2.4-1
+local/ros-hydro-cpp-common 0.4.3-1
+local/ros-hydro-dynamic-reconfigure 1.5.37-1
+local/ros-hydro-eigen-conversions 1.10.8-3
+local/ros-hydro-eigen-stl-containers 0.1.4-1
+local/ros-hydro-fcl 0.2.9-1
+local/ros-hydro-gencpp 0.4.17-1
+local/ros-hydro-genlisp 0.4.14-1
+local/ros-hydro-genmsg 0.4.25-1
+local/ros-hydro-genpy 0.4.17-1
+local/ros-hydro-geometric-shapes 0.3.6-1
+local/ros-hydro-geometry-msgs 1.10.6-2
+local/ros-hydro-image-transport 1.11.3-3
+local/ros-hydro-kdl-conversions 1.10.8-3
+local/ros-hydro-kdl-parser 1.10.20-1
+local/ros-hydro-libccd 1.4.0-1
+local/ros-hydro-message-filters 1.10.11-1
+local/ros-hydro-message-generation 0.2.10-1
+local/ros-hydro-message-runtime 0.4.12-1
+local/ros-hydro-moveit-core 0.5.8-1
+local/ros-hydro-moveit-msgs 0.5.3-1
+local/ros-hydro-moveit-ros-perception 0.5.16-1
+local/ros-hydro-moveit-ros-planning 0.5.16-1
+local/ros-hydro-moveit-ros-warehouse 0.5.16-1
+local/ros-hydro-object-recognition-msgs 0.4.1-1
+local/ros-hydro-octomap 1.6.6-1
+local/ros-hydro-octomap-msgs 0.3.1-2
+local/ros-hydro-opencv2 2.4.9-3
+local/ros-hydro-orocos-kdl 1.3.0-1
+local/ros-hydro-pcl-conversions 0.1.6-1
+local/ros-hydro-pcl-msgs 0.1.0-1
+local/ros-hydro-pluginlib 1.9.24-1
+local/ros-hydro-python-orocos-kdl 1.3.0-1
+local/ros-hydro-random-numbers 0.2.0-1
+local/ros-hydro-resource-retriever 1.10.20-1
+local/ros-hydro-rosbag 1.10.11-1
+local/ros-hydro-rosbag-migration-rule 1.0.0-1
+local/ros-hydro-rosbag-storage 1.10.11-1
+local/ros-hydro-rosbuild 1.10.10-1
+local/ros-hydro-rosclean 1.10.10-1
+local/ros-hydro-rosconsole 1.10.11-1
+local/ros-hydro-rosconsole-bridge 0.3.4-1
+local/ros-hydro-roscpp 1.10.11-1
+local/ros-hydro-roscpp-serialization 0.4.3-1
+local/ros-hydro-roscpp-traits 0.4.3-1
+local/ros-hydro-rosgraph 1.10.11-1
+local/ros-hydro-rosgraph-msgs 1.10.11-1
+local/ros-hydro-roslang 1.10.10-1
+local/ros-hydro-roslaunch 1.10.11-1
+local/ros-hydro-roslib 1.10.10-1
+local/ros-hydro-roslint 0.9.2-1
+local/ros-hydro-rosmaster 1.10.11-1
+local/ros-hydro-rosmsg 1.10.11-1
+local/ros-hydro-rosnode 1.10.11-1
+local/ros-hydro-rosout 1.10.11-1
+local/ros-hydro-rospack 2.1.23-1
+local/ros-hydro-rosparam 1.10.11-1
+local/ros-hydro-rospy 1.10.11-1
+local/ros-hydro-rosservice 1.10.11-1
+local/ros-hydro-rostest 1.10.11-1
+local/ros-hydro-rostime 0.4.3-1
+local/ros-hydro-rostopic 1.10.11-1
+local/ros-hydro-rosunit 1.10.10-1
+local/ros-hydro-roswtf 1.10.11-1
+local/ros-hydro-sensor-msgs 1.10.6-2
+local/ros-hydro-shape-msgs 1.10.6-2
+local/ros-hydro-shape-tools 0.2.1-1
+local/ros-hydro-srdfdom 0.2.6-1
+local/ros-hydro-std-msgs 0.5.8-1
+local/ros-hydro-tf 1.10.8-2
+local/ros-hydro-tf-conversions 1.10.8-3
+local/ros-hydro-tf2 0.4.11-1
+local/ros-hydro-tf2-msgs 0.4.11-1
+local/ros-hydro-tf2-py 0.4.11-1
+local/ros-hydro-tf2-ros 0.4.11-1
+local/ros-hydro-topic-tools 1.10.11-1
+local/ros-hydro-trajectory-msgs 1.10.6-2
+local/ros-hydro-urdf 1.10.20-1
+local/ros-hydro-urdf-parser-plugin 1.10.20-1
+local/ros-hydro-urdfdom 0.2.10-1
+local/ros-hydro-urdfdom-headers 0.2.3-1
+local/ros-hydro-visualization-msgs 1.10.6-2
+local/ros-hydro-warehouse-ros 0.8.6-5
+local/ros-hydro-xmlrpcpp 1.10.11-1
+local/ros-indigo-actionlib 1.11.3-2
+local/ros-indigo-actionlib-msgs 1.11.8-1
+local/ros-indigo-actionlib-tutorials 0.1.8-2
+local/ros-indigo-amcl 1.11.11-1
+local/ros-indigo-angles 1.9.9-1
+local/ros-indigo-base-local-planner 1.11.11-1
+local/ros-indigo-bfl 0.7.0-7
+local/ros-indigo-bond 1.7.16-1
+local/ros-indigo-bond-core 1.7.16-1
+local/ros-indigo-bondcpp 1.7.16-3
+local/ros-indigo-bondpy 1.7.16-1
+local/ros-indigo-brics-actuator 0.6.2-1
+local/ros-indigo-camera-calibration 1.12.13-1
+local/ros-indigo-camera-calibration-parsers 1.11.5-1
+local/ros-indigo-camera-info-manager 1.11.5-1
+local/ros-indigo-carrot-planner 1.11.11-1
+local/ros-indigo-catkin 0.6.14-1
+local/ros-indigo-class-loader 0.3.1-3
+local/ros-indigo-clear-costmap-recovery 1.11.11-1
+local/ros-indigo-cmake-modules 0.3.3-1
+local/ros-indigo-collada-parser 1.11.7-2
+local/ros-indigo-collada-urdf 1.11.7-2
+local/ros-indigo-common-msgs 1.11.8-1
+local/ros-indigo-common-tutorials 0.1.8-1
+local/ros-indigo-compressed-depth-image-transport 1.9.2-1
+local/ros-indigo-compressed-image-transport 1.9.2-1
+local/ros-indigo-control-msgs 1.3.1-1
+local/ros-indigo-controller-interface 0.9.1-1
+local/ros-indigo-convex-decomposition 0.1.10-1
+local/ros-indigo-costmap-2d 1.11.11-1
+local/ros-indigo-cpp-common 0.5.6-1
+local/ros-indigo-cv-bridge 1.11.7-3
+local/ros-indigo-depth-image-proc 1.12.13-2
+local/ros-indigo-desktop 1.1.4-1
+local/ros-indigo-desktop-full 1.1.4-1
+local/ros-indigo-diagnostic-aggregator 1.8.7-2
+local/ros-indigo-diagnostic-analysis 1.8.7-1
+local/ros-indigo-diagnostic-common-diagnostics 1.8.7-1
+local/ros-indigo-diagnostic-msgs 1.11.8-1
+local/ros-indigo-diagnostic-updater 1.8.7-1
+local/ros-indigo-diagnostics 1.8.7-1
+local/ros-indigo-driver-base 1.6.8-3
+local/ros-indigo-dwa-local-planner 1.11.11-1
+local/ros-indigo-dynamic-reconfigure 1.5.38-2
+local/ros-indigo-eigen-conversions 1.11.7-1
+local/ros-indigo-eigen-stl-containers 0.1.4-1
+local/ros-indigo-executive-smach 2.0.0-1
+local/ros-indigo-fake-localization 1.11.11-1
+local/ros-indigo-fcl 0.3.1-1
+local/ros-indigo-filters 1.7.4-4
+local/ros-indigo-gazebo-msgs 2.4.8-1
+local/ros-indigo-gazebo-plugins 2.4.8-1
+local/ros-indigo-gazebo-ros 2.4.8-1
+local/ros-indigo-gazebo-ros-pkgs 2.4.8-1
+local/ros-indigo-gencpp 0.5.3-1
+local/ros-indigo-genlisp 0.4.15-1
+local/ros-indigo-genmsg 0.5.6-1
+local/ros-indigo-genpy 0.5.4-1
+local/ros-indigo-geometric-shapes 0.4.3-1
+local/ros-indigo-geometry 1.11.7-1
+local/ros-indigo-geometry-msgs 1.11.8-1
+local/ros-indigo-geometry-tutorials 0.2.2-1
+local/ros-indigo-hardware-interface 0.9.1-1
+local/ros-indigo-image-common 1.11.5-1
+local/ros-indigo-image-geometry 1.11.7-1
+local/ros-indigo-image-pipeline 1.12.13-1
+local/ros-indigo-image-proc 1.12.13-2
+local/ros-indigo-image-rotate 1.12.13-2
+local/ros-indigo-image-transport 1.11.5-1
+local/ros-indigo-image-transport-plugins 1.9.2-1
+local/ros-indigo-image-view 1.12.13-2
+local/ros-indigo-interactive-marker-tutorials 0.9.1-2
+local/ros-indigo-interactive-markers 1.11.1-2
+local/ros-indigo-ivcon 0.1.5-1
+local/ros-indigo-joint-state-publisher 1.11.7-1
+local/ros-indigo-joy 1.10.0-3
+local/ros-indigo-kdl-conversions 1.11.7-1
+local/ros-indigo-kdl-parser 1.11.7-1
+local/ros-indigo-laser-assembler 1.7.3-1
+local/ros-indigo-laser-filters 1.7.3-3
+local/ros-indigo-laser-geometry 1.6.4-1
+local/ros-indigo-laser-pipeline 1.6.1-1
+local/ros-indigo-libccd 1.5.0-2
+local/ros-indigo-librviz-tutorial 0.9.1-2
+local/ros-indigo-map-msgs 0.0.2-2
+local/ros-indigo-map-server 1.11.11-1
+local/ros-indigo-media-export 0.2.0-1
+local/ros-indigo-message-filters 1.11.13-1
+local/ros-indigo-message-generation 0.2.10-2
+local/ros-indigo-message-runtime 0.4.12-2
+local/ros-indigo-mk 1.11.8-1
+local/ros-indigo-move-base 1.11.11-1
+local/ros-indigo-move-base-msgs 1.11.11-1
+local/ros-indigo-move-slow-and-clear 1.11.11-1
+local/ros-indigo-moveit-core 0.6.9-1
+local/ros-indigo-moveit-msgs 0.5.4-3
+local/ros-indigo-moveit-ros-move-group 0.5.19-1
+local/ros-indigo-moveit-ros-perception 0.5.19-1
+local/ros-indigo-moveit-ros-planning 0.5.19-1
+local/ros-indigo-nav-core 1.11.11-1
+local/ros-indigo-nav-msgs 1.11.8-1
+local/ros-indigo-navfn 1.11.11-1
+local/ros-indigo-navigation 1.11.11-1
+local/ros-indigo-nodelet 1.9.2-3
+local/ros-indigo-nodelet-core 1.9.2-1
+local/ros-indigo-nodelet-topic-tools 1.9.2-2
+local/ros-indigo-nodelet-tutorial-math 0.1.8-2
+local/ros-indigo-object-recognition-msgs 0.4.1-1
+local/ros-indigo-octomap 1.6.8-1
+local/ros-indigo-octomap-msgs 0.3.1-6
+local/ros-indigo-orocos-kdl 1.3.0-1
+local/ros-indigo-pcl-conversions 0.2.0-2
+local/ros-indigo-pcl-msgs 0.2.0-1
+local/ros-indigo-pcl-ros 1.2.6-2
+local/ros-indigo-perception 1.1.4-1
+local/ros-indigo-perception-pcl 1.2.6-1
+local/ros-indigo-pluginlib 1.10.1-2
+local/ros-indigo-pluginlib-tutorials 0.1.8-2
+local/ros-indigo-pointcloud-to-laserscan 1.2.6-2
+local/ros-indigo-polled-camera 1.11.5-1
+local/ros-indigo-pr2-description 1.11.9-1
+local/ros-indigo-python-orocos-kdl 1.3.0-1
+local/ros-indigo-python-qt-binding 0.2.16-1
+local/ros-indigo-qt-dotgraph 0.2.27-1
+local/ros-indigo-qt-gui 0.2.27-1
+local/ros-indigo-qt-gui-cpp 0.2.27-1
+local/ros-indigo-qt-gui-py-common 0.2.27-1
+local/ros-indigo-random-numbers 0.3.0-3
+local/ros-indigo-realtime-tools 1.9.0-2
+local/ros-indigo-resource-retriever 1.11.6-1
+local/ros-indigo-robot 1.1.4-1
+local/ros-indigo-robot-model 1.11.7-1
+local/ros-indigo-robot-pose-ekf 1.11.11-1
+local/ros-indigo-robot-state-publisher 1.10.4-2
+local/ros-indigo-ros 1.11.8-1
+local/ros-indigo-ros-base 1.1.4-1
+local/ros-indigo-ros-comm 1.11.13-1
+local/ros-indigo-ros-core 1.1.4-1
+local/ros-indigo-ros-tutorials 0.5.3-1
+local/ros-indigo-rosbag 1.11.13-1
+local/ros-indigo-rosbag-migration-rule 1.0.0-1
+local/ros-indigo-rosbag-storage 1.11.13-1
+local/ros-indigo-rosbash 1.11.8-1
+local/ros-indigo-rosboost-cfg 1.11.8-1
+local/ros-indigo-rosbuild 1.11.8-1
+local/ros-indigo-rosclean 1.11.8-1
+local/ros-indigo-rosconsole 1.11.13-1
+local/ros-indigo-rosconsole-bridge 0.4.2-1
+local/ros-indigo-roscpp 1.11.13-1
+local/ros-indigo-roscpp-core 0.5.6-1
+local/ros-indigo-roscpp-serialization 0.5.6-1
+local/ros-indigo-roscpp-traits 0.5.6-1
+local/ros-indigo-roscpp-tutorials 0.5.3-1
+local/ros-indigo-roscreate 1.11.8-1
+local/ros-indigo-rosgraph 1.11.13-1
+local/ros-indigo-rosgraph-msgs 1.11.1-1
+local/ros-indigo-roslang 1.11.8-1
+local/ros-indigo-roslaunch 1.11.13-1
+local/ros-indigo-roslib 1.11.8-1
+local/ros-indigo-roslint 0.9.3-1
+local/ros-indigo-roslisp 1.9.18-1
+local/ros-indigo-roslz4 1.11.13-1
+local/ros-indigo-rosmake 1.11.8-1
+local/ros-indigo-rosmaster 1.11.13-1
+local/ros-indigo-rosmsg 1.11.13-1
+local/ros-indigo-rosnode 1.11.13-1
+local/ros-indigo-rosout 1.11.13-1
+local/ros-indigo-rospack 2.2.5-3
+local/ros-indigo-rosparam 1.11.13-1
+local/ros-indigo-rospy 1.11.13-1
+local/ros-indigo-rospy-tutorials 0.5.3-1
+local/ros-indigo-rosservice 1.11.13-1
+local/ros-indigo-rostest 1.11.13-1
+local/ros-indigo-rostime 0.5.6-1
+local/ros-indigo-rostopic 1.11.13-1
+local/ros-indigo-rosunit 1.11.8-1
+local/ros-indigo-roswtf 1.11.13-1
+local/ros-indigo-rotate-recovery 1.11.11-1
+local/ros-indigo-rqt-action 0.3.11-1
+local/ros-indigo-rqt-bag 0.3.11-1
+local/ros-indigo-rqt-bag-plugins 0.3.11-1
+local/ros-indigo-rqt-common-plugins 0.3.11-1
+local/ros-indigo-rqt-console 0.3.11-1
+local/ros-indigo-rqt-dep 0.3.11-1
+local/ros-indigo-rqt-graph 0.3.11-1
+local/ros-indigo-rqt-gui 0.2.14-2
+local/ros-indigo-rqt-gui-cpp 0.2.14-5
+local/ros-indigo-rqt-gui-py 0.2.14-2
+local/ros-indigo-rqt-image-view 0.3.11-1
+local/ros-indigo-rqt-launch 0.3.11-1
+local/ros-indigo-rqt-logger-level 0.3.11-1
+local/ros-indigo-rqt-moveit 0.4.1-1
+local/ros-indigo-rqt-msg 0.3.11-1
+local/ros-indigo-rqt-nav-view 0.4.1-1
+local/ros-indigo-rqt-plot 0.3.11-1
+local/ros-indigo-rqt-pose-view 0.4.1-1
+local/ros-indigo-rqt-publisher 0.3.11-1
+local/ros-indigo-rqt-py-common 0.3.11-1
+local/ros-indigo-rqt-py-console 0.3.11-1
+local/ros-indigo-rqt-reconfigure 0.3.11-1
+local/ros-indigo-rqt-robot-dashboard 0.4.1-1
+local/ros-indigo-rqt-robot-monitor 0.4.1-1
+local/ros-indigo-rqt-robot-plugins 0.4.1-1
+local/ros-indigo-rqt-robot-steering 0.4.1-1
+local/ros-indigo-rqt-runtime-monitor 0.4.1-1
+local/ros-indigo-rqt-rviz 0.4.1-1
+local/ros-indigo-rqt-service-caller 0.3.11-1
+local/ros-indigo-rqt-shell 0.3.11-1
+local/ros-indigo-rqt-srv 0.3.11-1
+local/ros-indigo-rqt-tf-tree 0.4.1-1
+local/ros-indigo-rqt-top 0.3.11-1
+local/ros-indigo-rqt-topic 0.3.11-1
+local/ros-indigo-rqt-web 0.3.11-1
+local/ros-indigo-rviz 1.11.7-3
+local/ros-indigo-rviz-plugin-tutorials 0.9.1-2
+local/ros-indigo-rviz-python-tutorial 0.9.1-1
+local/ros-indigo-self-test 1.8.7-1
+local/ros-indigo-sensor-msgs 1.11.8-1
+local/ros-indigo-shape-msgs 1.11.8-1
+local/ros-indigo-shape-tools 0.2.1-1
+local/ros-indigo-simulators 1.1.4-1
+local/ros-indigo-smach 2.0.0-1
+local/ros-indigo-smach-msgs 2.0.0-1
+local/ros-indigo-smach-ros 2.0.0-1
+local/ros-indigo-smclib 1.7.16-1
+local/ros-indigo-srdfdom 0.2.7-1
+local/ros-indigo-stage 4.1.1-5
+local/ros-indigo-stage-ros 1.7.4-2
+local/ros-indigo-std-msgs 0.5.9-2
+local/ros-indigo-std-srvs 1.11.1-1
+local/ros-indigo-stereo-image-proc 1.12.13-2
+local/ros-indigo-stereo-msgs 1.11.8-1
+local/ros-indigo-tf 1.11.7-2
+local/ros-indigo-tf-conversions 1.11.7-1
+local/ros-indigo-tf2 0.5.11-2
+local/ros-indigo-tf2-geometry-msgs 0.5.11-1
+local/ros-indigo-tf2-msgs 0.5.11-1
+local/ros-indigo-tf2-py 0.5.11-2
+local/ros-indigo-tf2-ros 0.5.11-2
+local/ros-indigo-tf2-sensor-msgs 0.5.11-1
+local/ros-indigo-theora-image-transport 1.9.2-1
+local/ros-indigo-topic-tools 1.11.13-1
+local/ros-indigo-trajectory-msgs 1.11.8-1
+local/ros-indigo-turtle-actionlib 0.1.8-2
+local/ros-indigo-turtle-tf 0.2.2-2
+local/ros-indigo-turtle-tf2 0.2.2-2
+local/ros-indigo-turtlesim 0.5.3-1
+local/ros-indigo-urdf 1.11.7-2
+local/ros-indigo-urdf-parser-plugin 1.11.7-1
+local/ros-indigo-urdf-tutorial 0.2.4-1
+local/ros-indigo-usb-cam 0.1.9-1
+local/ros-indigo-vision-opencv 1.11.7-1
+local/ros-indigo-visualization-marker-tutorials 0.9.1-1
+local/ros-indigo-visualization-msgs 1.11.8-1
+local/ros-indigo-visualization-tutorials 0.9.1-1
+local/ros-indigo-viz 1.1.4-1
+local/ros-indigo-voxel-grid 1.11.11-1
+local/ros-indigo-xacro 1.9.4-1
+local/ros-indigo-xmlrpcpp 1.11.13-1
+extra/rsync 3.1.1-4
+extra/rtkit 0.11-5
+local/rtl8812au_asus-dkms 4.3.2.11100.20140411-2
+extra/rtmpdump 20140918-2
+extra/ruby 2.2.2-1
+core/s-nail 14.8.0-1 (base)
+extra/samba 4.2.1-1
+extra/sbc 1.3-1
+extra/sbcl 1.2.10-1
+extra/schroedinger 1.0.11-2
+community/schroot 1.6.10-6
+extra/scons 2.3.4-1
+local/sdformat 2.3.0-3
+extra/sdl 1.2.15-7
+extra/sdl_image 1.2.12-3
+core/sed 4.2.2-3 (base base-devel)
+core/shadow 4.2.1-3 (base)
+extra/shared-color-targets 0.1.5-1
+extra/shared-mime-info 1.4-1
+extra/sip 4.16.7-1
+extra/slang 2.3.0-1
+extra/smbclient 4.2.1-1
+extra/snappy 1.1.1-1
+extra/sound-theme-freedesktop 0.8-2
+extra/soundtouch 1.8.0-1
+extra/source-highlight 3.1.8-2
+extra/spandsp 0.0.6-1
+extra/speex 1.2rc2-1
+extra/speexdsp 1.2rc3-1
+community/spyder 2.3.4-1
+community/spyder3 2.3.4-1
+core/sqlite 3.8.10.2-1
+extra/startup-notification 0.12-4
+local/sublime-text 2.0.2-4
+core/sudo 1.8.13-1 (base-devel)
+extra/suitesparse 4.4.4-1
+extra/sushi 3.16.0-1 (gnome)
+core/sysfsutils 2.1.0-9 (base)
+core/systemd 219-6
+core/systemd-sysvcompat 219-6 (base)
+extra/t1lib 5.1.2-5
+extra/taglib 1.9.1-1
+extra/talloc 2.1.2-1
+community/tangerine-icon-theme 0.27-3
+local/tango-icon-theme 0.8.90-9
+core/tar 1.28-1 (base)
+extra/tcpdump 4.7.4-1
+extra/tdb 1.3.4-1
+extra/telepathy-farstream 0.6.2-2
+extra/telepathy-glib 0.24.1-1
+extra/telepathy-logger 0.8.1-1
+extra/telepathy-mission-control 5.16.3-1
+local/termcap 1.3.1-4
+community/terminator 0.97-2
+extra/tevent 0.9.24-1
+core/texinfo 5.2-3 (base base-devel)
+extra/texlive-bin 2014.34260-7
+extra/texlive-core 2014.36709-1 (texlive-most)
+extra/texlive-science 2014.36659-1 (texlive-most)
+community/texmaker 4.4.1-1
+core/thin-provisioning-tools 0.4.1-1
+community/tinyxml 2.6.2-3
+extra/totem 3.16.1-1 (gnome)
+extra/totem-plparser 3.10.4-1
+extra/tracker 1.4.0-2 (gnome)
+extra/tree 1.7.0-1
+extra/ttf-dejavu 2.34-2
+community/ttf-ubuntu-font-family 0.80-5
+core/tzdata 2015d-1
+local/ubuntu-keyring 2012.05.19-2
+extra/udisks2 2.1.5-1
+extra/unixodbc 2.3.2-1
+extra/unzip 6.0-10
+extra/upower 0.99.2-2
+local/urdfdom 0.3.0-5
+local/urdfdom-headers 0.3.0-1
+core/usbutils 008-1 (base)
+core/util-linux 2.26.1-3 (base base-devel)
+extra/v4l-utils 1.6.3-1
+core/vi 1:070224-1 (base)
+extra/videoproto 2.3.2-1
+extra/vim 7.4.729-1
+extra/vim-runtime 7.4.729-1
+extra/vino 3.16.0-2 (gnome)
+community/virtualgl 2.4-2
+extra/vte 0.28.2-5
+extra/vte-common 0.40.2-1
+extra/vte3 0.40.2-1
+community/vtk 6.1.0-8
+extra/wavpack 4.70.0-2
+extra/wayland 1.7.0-1
+extra/webkit2gtk 2.8.3-1
+extra/webkitgtk 2.4.9-1
+extra/webkitgtk2 2.4.9-1
+extra/webrtc-audio-processing 0.1-2
+extra/wget 1.16.3-1
+core/which 2.21-1 (base base-devel)
+community/wifi-radar 2.0.s10-1
+extra/wildmidi 0.3.8-1
+core/wireless_tools 30.pre9-1
+community/wireshark-cli 1.12.5-2
+community/wireshark-gtk 1.12.5-2
+core/wpa_supplicant 1:2.3-1
+extra/wxgtk 3.0.2-4
+extra/wxpython 3.0.2.0-1
+extra/x265 1.6-1
+extra/xbitmaps 1.1.1-3
+extra/xcb-proto 1.11-1
+extra/xcb-util 0.4.0-1
+extra/xcb-util-image 0.4.0-1
+extra/xcb-util-keysyms 0.4.0-1
+extra/xcb-util-wm 0.4.1-1
+extra/xclip 0.12-4
+extra/xdg-user-dirs 0.15-1
+extra/xdg-user-dirs-gtk 0.10-2 (gnome)
+extra/xdg-utils 1.1.0.git20150323-1
+extra/xextproto 7.3.0-1
+extra/xf86-input-evdev 2.9.2-1 (xorg-drivers xorg)
+extra/xf86-input-synaptics 1.8.2-2 (xorg-drivers xorg)
+extra/xf86-video-intel 2.99.917-5 (xorg-drivers xorg)
+extra/xf86vidmodeproto 2.3.1-3
+core/xfsprogs 3.2.2-1 (base)
+extra/xine-lib 1.2.6-5
+extra/xineramaproto 1.2.1-3
+extra/xkeyboard-config 2.14-1
+extra/xmlto 0.0.26-1
+extra/xorg-bdftopcf 1.0.5-1 (xorg xorg-apps)
+extra/xorg-font-util 1.3.1-1 (xorg-fonts xorg)
+extra/xorg-font-utils 7.6-4
+extra/xorg-fonts-alias 1.0.3-1
+extra/xorg-fonts-encodings 1.0.4-4 (xorg-fonts xorg)
+extra/xorg-fonts-misc 1.0.3-4
+extra/xorg-mkfontdir 1.0.7-2 (xorg xorg-apps)
+extra/xorg-mkfontscale 1.1.2-1 (xorg-apps xorg)
+extra/xorg-server 1.17.1-5 (xorg)
+extra/xorg-server-common 1.17.1-5
+extra/xorg-server-xwayland 1.17.1-5
+extra/xorg-setxkbmap 1.3.1-1 (xorg-apps xorg)
+extra/xorg-xauth 1.0.9-1 (xorg-apps xorg)
+extra/xorg-xhost 1.0.7-1 (xorg-apps xorg)
+extra/xorg-xkbcomp 1.3.0-1 (xorg-apps xorg)
+extra/xorg-xrdb 1.1.0-1 (xorg-apps xorg)
+extra/xorg-xset 1.2.3-1 (xorg-apps xorg)
+extra/xproto 7.0.27-1
+extra/xvidcore 1.3.3-1
+core/xz 5.2.1-1
+extra/yajl 2.1.0-1
+community/yaml-cpp 0.5.2-2
+local/yaourt 1.5-1
+extra/yelp 3.16.1-1 (gnome)
+extra/yelp-tools 3.16.1-1
+extra/yelp-xsl 3.16.1-1
+extra/zeitgeist 0.9.15-1
+extra/zenity 3.16.2-1
+community/zeromq 4.0.5-1
+extra/zip 3.0-6
+extra/zita-alsa-pcmi 0.2.0-2
+extra/zita-resampler 1.3.0-3
+core/zlib 1.2.8-3
+extra/zsh 5.0.7-2
+community/zsh-completions 0.12.0-1
+extra/zziplib 0.13.62-2
